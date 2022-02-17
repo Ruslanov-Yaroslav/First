@@ -1,0 +1,14 @@
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.exe
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.deps.json
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.runtimeconfig.json
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.runtimeconfig.dev.json
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.dll
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\bin\Debug\netcoreapp3.1\CandyesTask.pdb
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.csproj.AssemblyReference.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.AssemblyInfoInputs.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.AssemblyInfo.cs
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.dll
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.pdb
+C:\Users\Yarik\OneDrive\Рабочий стол\cand\CandiesTask\CandiesTask\obj\Debug\netcoreapp3.1\CandyesTask.genruntimeconfig.cache
